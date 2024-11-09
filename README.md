@@ -8,6 +8,7 @@
 
 <div>
  <h3>You can insert any query into the program and display the result of a query</h3>
+ <h3>You can show subsets of the data from the underlying TableModel.This is known as filtering the data.</h3>
 <img src="https://github.com/user-attachments/assets/02856969-ded2-4f52-a223-36ba35586578" width="1500" height="700">
 <img src="https://github.com/user-attachments/assets/252df1c5-f21f-4de7-a50f-250eafbb66ee" width="1500" height="700">
 </div>
