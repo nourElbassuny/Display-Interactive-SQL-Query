@@ -5,4 +5,4 @@
  <p> Class ResultSetTable Model performs the connection to the database via a TableModel and maintains the ResultSet.</p>
  <p>Class DisplayQueryResults creates the GUI and specifies an instance of class ResultSetTableModel to provide data for the JTable.</p>
 <h4>I use the Northwind database in this project</h4>
-<img src="https://github.com/user-attachments/assets/252df1c5-f21f-4de7-a50f-250eafbb66ee" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/252df1c5-f21f-4de7-a50f-250eafbb66ee" width="1500" height="900">
