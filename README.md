@@ -8,6 +8,6 @@
 
 <div>
  
-<img src="https://github.com/user-attachments/assets/7c8ef0d8-5f70-4366-8377-8c21cc3870d0" width="2000" height="700">
-<img src="https://github.com/user-attachments/assets/252df1c5-f21f-4de7-a50f-250eafbb66ee" width="2000" height="700">
+<img src="https://github.com/user-attachments/assets/20305fb9-9053-494d-b451-51a220a11b6a" width="1500" height="700">
+<img src="https://github.com/user-attachments/assets/252df1c5-f21f-4de7-a50f-250eafbb66ee" width="1500" height="700">
 </div>
