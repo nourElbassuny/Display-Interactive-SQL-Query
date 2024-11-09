@@ -12,5 +12,5 @@
 <img src="https://github.com/user-attachments/assets/02856969-ded2-4f52-a223-36ba35586578" width="1500" height="700">
 <img src="https://github.com/user-attachments/assets/252df1c5-f21f-4de7-a50f-250eafbb66ee" width="1500" height="700">
 <h3>You can show subsets of the data from the underlying TableModel.This is known as filtering the data.</h3>
-<img src="https://github.com/user-attachments/assets/7fd97be5-4240-4e41-85fb-eeeb45ca7dc5" width="1500" height="700">
+<img src="https://github.com/user-attachments/assets/cfa141e8-296b-4c12-a050-cff9a8fc6822" width="1500" height="700">
 </div>
