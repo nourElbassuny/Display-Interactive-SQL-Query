@@ -7,7 +7,7 @@
 <h4>I use the Northwind database in this project</h4>
 
 <div>
- 
-<img src="https://github.com/user-attachments/assets/20305fb9-9053-494d-b451-51a220a11b6a" width="1500" height="700">
+ <h3>You can insert any query into the program and display the result of a query</h3>
+<img src="https://github.com/user-attachments/assets/02856969-ded2-4f52-a223-36ba35586578" width="1500" height="700">
 <img src="https://github.com/user-attachments/assets/252df1c5-f21f-4de7-a50f-250eafbb66ee" width="1500" height="700">
 </div>
